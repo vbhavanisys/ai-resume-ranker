@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Ranker",
+  "description": "An AI-powered resume ranking and analysis application for evaluating candidates against job descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
