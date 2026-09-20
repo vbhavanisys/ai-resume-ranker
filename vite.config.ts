@@ -5,8 +5,8 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
-export default defineConfig({
-  base: '/ai-resume-ranker/',
+    export default defineConfig({
+  base: '/',
   plugins: [
     react(),
     VitePWA({
